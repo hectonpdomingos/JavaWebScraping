@@ -11,7 +11,7 @@ public class GoogleScraper {
     public static void main(String[] args) throws Exception{
 
 
-       // final String query = "apple";
+       // final String query = "Your-keyword";
        // final Document page = Jsoup.connect("https://www.google.com/search?q=" +URLEncoder.encode(query, "UTF-8")).get();
 
         // final String query = "1USD+to+REAL";
